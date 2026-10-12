@@ -35,17 +35,6 @@ kia = {
 
 </div>
 
-### `// stats`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kia-Aalam&show_icons=true&theme=github_dark&hide_border=true&bg_color=1e1e1e&title_color=007acc&icon_color=4ec9b0" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kia-Aalam&layout=compact&theme=github_dark&hide_border=true&bg_color=1e1e1e&title_color=007acc" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kia-Aalam&theme=github-dark-blue&hide_border=true&background=1e1e1e" />
-
-</div>
-
 ### `// contributions`
 
 <img src="https://raw.githubusercontent.com/Kia-Aalam/Kia-Aalam/output/github-contribution-grid-snake-dark.svg" width="100%"/>
