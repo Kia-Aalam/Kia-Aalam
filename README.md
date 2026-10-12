@@ -6,7 +6,6 @@
 
 <a href="mailto:kiaaalam7@gmail.com"><img src="https://img.shields.io/badge/Email-kiaaalam7@gmail.com-007acc?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1e1e"/></a>
 <a href="https://github.com/Kia-Aalam"><img src="https://img.shields.io/github/followers/Kia-Aalam?style=for-the-badge&logo=github&color=007acc&labelColor=1e1e1e"/></a>
-<img src="https://komarev.com/ghpvc/?username=Kia-Aalam&style=for-the-badge&color=007acc&labelColor=1e1e1e&label=PROFILE+VIEWS"/>
 
 </div>
 
